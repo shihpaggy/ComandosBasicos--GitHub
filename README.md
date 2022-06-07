@@ -10,39 +10,40 @@ node app.js
 <h2>Anotação sobre README</h2>
 
 <p>README deve conter seguintes informações:</p>
-  <ul>
-    <li>Descrição do seu projeto;</li>
-    <li>Funcionalidades;</li>
-    <li>Como os usuários podem utilizá-lo;</li>
-    <li>Onde os usuários podem encontrar ajuda sobre seu projeto;</li>
-    <li>Autores do projeto</li>
-  </ul>
+<ul>
+  <li>Descrição do seu projeto;</li>
+  <li>Funcionalidades;</li>
+  <li>Como os usuários podem utilizá-lo;</li>
+  <li>Onde os usuários podem encontrar ajuda sobre seu projeto;</li>
+  <li>Autores do projeto</li>
+</ul>
   
-  ---
-  comandos git:
+<hr/>
 
-  *git clone link-do-repo 
-    para copiar o repositorio git para armazenamento local
-  *git status 
-    para checar diff entre o repositorio git e o local
-  *git add nome-do-arquivo 
-    para "empacotar" arquivos para atualizar a
-  *git commit -m "descricao-da-mudanca" 
-    comentar a mudanca
-  *git push origin nome-da-branch 
-   "empurra" a atualizacao para github na ramificacao desejada
-  *git pull origin nome-da-branch 
-   "puxa" a atualizacao para arquivo local na ramificacao desejada
-  *git log --oneline 
-   consulta de commits
-  *git restore --source hash-da-versao nome-do-arquivo
-    voltar para a versao especifica do arquivo
-  *git branch
-    consulta de todas as ramificacoes
-  *git checkout -b nome-da-nova-branch
-    criacao de nova ramificacao
-  *git switch nome-da-branch
-    trocar de ramificacao
-  *git merge nome-da-branch
-    "subindo" as atualizacoes da ramificacao especificada para a atual
-    
+  <h2>comandos git:</h2>
+  <ul>
+    <li>git clone link-do-repo</br> 
+      para copiar o repositorio git para armazenamento local</li>
+    <li>git status </br> 
+      para checar diff entre o repositorio git e o local</li>
+    <li>git add nome-do-arquivo</br> 
+      para "empacotar" arquivos para atualizar a</li>
+    <li>git commit -m "descricao-da-mudanca"</br> 
+      comentar a mudanca</li>
+    <li>git push origin nome-da-branch</br> 
+      "empurra" a atualizacao para github na ramificacao desejada</li>
+    <li>git pull origin nome-da-branch</br> 
+      "puxa" a atualizacao para arquivo local na ramificacao desejada</li>
+    <li>git log --oneline</br> 
+      consulta de commits</li>
+    <li>git restore --source hash-da-versao nome-do-arquivo</br> 
+      voltar para a versao especifica do arquivo</li>
+    <li>git branch</br> 
+      consulta de todas as ramificacoes</li>
+    <li>git checkout -b nome-da-nova-branch</br> 
+      criacao de nova ramificacao</li>
+    <li>git switch nome-da-branch</br> 
+      trocar de ramificacao</li>
+    <li>git merge nome-da-branch</br> 
+      "subindo" as atualizacoes da ramificacao especificada para a atual</li>
+  </ul>
