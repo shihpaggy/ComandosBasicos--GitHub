@@ -7,7 +7,6 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 npm install react
 ```
-<hr/>
 <h2>Anotação sobre README</h2>
 
 <p>README deve conter seguintes informações:</p>
